@@ -17,7 +17,7 @@ Installation &amp; Usage
 -----
 I'll prepare an npm module soon for now the only way to use proxy-mirror is to clone the repo
 ```bash
-git clone git@github.com:miensol/proxy-mirror.git
+git clone https://github.com/miensol/proxy-mirror.git
 cd proxy-mirror
 npm install
 bower install
